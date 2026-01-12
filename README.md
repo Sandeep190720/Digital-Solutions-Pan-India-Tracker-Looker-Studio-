@@ -26,10 +26,11 @@ Built using **Looker Studio**, the analysis enables stakeholders to identify **r
 ## 🔗 Dashboard & Dataset Links
 
 🔗 **Looker Studio Dashboard**  
-https://lookerstudio.google.com/reporting/8df445e8-b488-4ded-823e-a085e356bd05
+[Dashboard Link](https://lookerstudio.google.com/reporting/8df445e8-b488-4ded-823e-a085e356bd05)
 
 📂 **Dataset Source**  
-Google Sheets (centralized operational & financial data)
+[Dataset Link](https://docs.google.com/spreadsheets/d/1OuDvaEJtfvfKjGU9j0n_oitxrRPTxdHGGgjPj9fAA4Y/edit?pli=1&gid=444177763#gid=444177763)
+
 
 ---
 
