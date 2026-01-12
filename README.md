@@ -20,6 +20,8 @@ Built using **Looker Studio**, the analysis enables stakeholders to identify **r
 - Enable **project-level and tenure-based insights** for operational optimization  
 
 ---
+📸 ##Dashboard Preview  
+![Dashboard Overview](Digital_Solutions_Tracker.png)
 
 ## 🔗 Dashboard & Dataset Links
 
